@@ -1,7 +1,0 @@
-Front-end : 
--Mark Malak   
--Katrin Emad 
-
-Back-End :
--Youssef Youhanna 
--Maria Maged  
